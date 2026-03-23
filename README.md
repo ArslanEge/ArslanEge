@@ -31,14 +31,6 @@ I also have hands-on experience with IoT and embedded systems, building end-to-e
       alt="LinkedIn"
     />
   </a>
-  <a href="https://www.behance.net/doruk_arslan" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge"
-      height="25"
-      style="margin-right:8px;"
-      alt="Behance"
-    />
-  </a>
 </div>
 <!-- clear the float and add some vertical breathing room -->
 <br clear="both" style="margin-bottom:32px;" />
