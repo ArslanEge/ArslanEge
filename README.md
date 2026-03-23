@@ -23,7 +23,7 @@ I also have hands-on experience with IoT and embedded systems, building end-to-e
       alt="Portfolio"
     />
   </a>
-  <a href="https://www.linkedin.com/in/doruk-arslan-a084bb207/" target="_blank">
+  <a href="https://www.linkedin.com/in/ege-arslan-981729243/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logo=linkedin&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
