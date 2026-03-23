@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I am Ege Arslan 👋</h2>
+<h2 align="left">Hey 👋</h2>
 <br clear="both" />
 
 
