@@ -81,39 +81,9 @@ I also have hands-on experience with IoT and embedded systems, building end-to-e
 
 <div align="center">
   <img
-    src="https://github-readme-stats-lac-two-49.vercel.app/api?username=dorukarslan&hide_title=true&hide_rank=true&count_private=true&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
-    height="150"
-    alt="stats graph"
-  />
-  <img
     src="https://github-readme-stats-lac-two-49.vercel.app/api/top-langs?username=dorukarslan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&count_private=true&hide_progress=true&hide=Objective-C,TeX,HTML,jupyter%20notebook&theme=dracula&hide_border=true&order=2"
     height="150"
     alt="languages graph"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=dorukarslan&theme=dracula&hide_border=true&short_numbers=true"
-    height="150"
-    alt="streak graph"
-  />
 </div>
 
-
-
-  
-
- <!-- ![snake svg](https://github.com/dorukarslan/dorukarslan/blob/output/github-contribution-grid-snake.svg)
-
-
-**dorukarslan/dorukarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ![snake svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
