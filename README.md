@@ -15,7 +15,7 @@ I also have hands-on experience with IoT and embedded systems, building end-to-e
 
 </p>
 <div align="left">
-  <a href="https://dorukarslan.com" target="_blank">
+  <a href="https://egearslan.dev" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Portfolio&logo=user&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
