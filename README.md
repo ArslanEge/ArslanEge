@@ -1,5 +1,4 @@
-<h2 align="left">Hey, I am Ege Arslan </h2>
-
+<h2 align="left">Hey, I am Ege Arslan 👋</h2>
 <br clear="both" />
 
 
@@ -72,8 +71,6 @@ I thrive on learning new technologies and adapting them quickly in my projects.
   <img src="https://skillicons.dev/icons?i=arduino"       height="40" alt="arduino"       /><img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi"   height="40" alt="raspberry pi"  /><img width="12" />
   <img src="https://skillicons.dev/icons?i=postman"       height="40" alt="postman"       /><img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma"         height="40" alt="figma"         /><img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps"            height="40" alt="photoshop"     /><img width="12" />
 
 </p>
 
