@@ -8,8 +8,10 @@
 
 <p align="left">
 
-I’m Ege, a computer engineering graduate with 6 years of software development experience, including 3+ years as a **full-stack mobile developer**. I’m also passionate about **embedded systems and IoT** and working on projects in this field.
-I thrive on learning new technologies and adapting them quickly in my projects.  
+I’m a software developer with 5 years of experience, including the last 2 years specializing in full-stack  
+mobile development.  
+
+I also have hands-on experience with IoT and embedded systems, building end-to-end solutions from device to cloud.
 
 </p>
 <div align="left">
