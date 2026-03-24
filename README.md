@@ -8,7 +8,7 @@
 
 <p align="left">
 
-I’m a software developer with 4 years of experience, including the last 2 years specializing in full-stack  
+I’m a software developer with 3 years of experience, including the last 2 years specializing in full-stack  
 mobile development.  
 
 I also have hands-on experience with IoT and embedded systems, building end-to-end solutions from device to cloud.
